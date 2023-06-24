@@ -916,12 +916,6 @@ width: 302px;
 }
 /* MEDIA */
 @media (max-width:480px) {
-    main{
-        margin: auto;
-        max-width: auto;
-        max-height: auto;
-        width:  50%;;
-    }
     /* MILLIONS table */
     .three-money-top{
         display: flex;
