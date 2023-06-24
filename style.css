@@ -601,11 +601,11 @@ margin-top: 70px;
 .four-middle-part .four-form .four-button-pricing,.four-middle-part .four-form .four-button-select {
 width: 43%;
 margin: 0;
-margin-inline-start: 13px;
+margin-inline-start: 33px;
 padding: 0;
 }
 .four-middle-part .four-form .four-button-pricing{
-    margin-inline-end: -15px; 
+    margin-inline-end: 5px; 
    
 }
 .four-middle-part .four-form .four-button-pricing h4 {
@@ -923,8 +923,7 @@ width: 302px;
         align-items: center;
     }
     .three-money-right{
-        display: flex;
-        flex-direction: column;
+        display: grid;
     }
 
     /* why-choose scissors area */
@@ -983,7 +982,7 @@ width: 302px;
        
     } 
     .four-middle-part .four-form .four-button-select{
-        margin-inline-end: -15px; 
+        margin-inline-end: -156px; 
     }
     /* eight-grid  */
     
