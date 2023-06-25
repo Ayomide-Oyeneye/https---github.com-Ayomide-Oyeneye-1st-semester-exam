@@ -916,8 +916,8 @@ width: 302px;
 /* MEDIA */
 @media (max-width:780px) {
     main,body{
-        width: 100%;
-        min-width:min-content;
+        width: 50%;
+        min-width: 900px;
         text-align: left;
         margin: auto;
     }
