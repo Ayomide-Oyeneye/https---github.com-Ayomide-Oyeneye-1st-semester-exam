@@ -6,15 +6,14 @@ body{
     justify-content: center;
     align-self: center;
     align-content: center;
-    width: 100%;
     min-width: 1111px;
+    overflow-x: hidden;
     font-family: 'Gilroy-Medium', sans-serif;
 }
 main{
     margin: auto;
     max-width: auto;
     max-height: auto;
-    width:  100%;;
 }
 
 /* THE-TOP */
@@ -266,10 +265,9 @@ margin-top: 70px;
 }
 .three-middle-part{
     display: flex;
+    
     justify-content: space-around;
     align-content: space-around;
-    padding-right: 40px;
-    /* margin-inline: 20px; */
     margin-top: 100px;
 }
 .three-middle-part .three-grid-right h2{
@@ -314,6 +312,7 @@ margin-top: 70px;
     display: grid;
     grid-template-columns: repeat(2,1fr);
     gap: 5px;
+    margin-inline-end: 119px;
 }
 .three-middle-part .three-grid-right .tec h3{
     width: 276px;
@@ -915,15 +914,22 @@ font-size: 13px;
 width: 302px;
 }
 /* MEDIA */
-@media (max-width:480px) {
+@media (max-width:780px) {
     main,body{
-        min-width: 1111px;
+        width: 100%;
+        min-width:min-content;
+        text-align: left;
+        margin: auto;
     }
     /* MILLIONS table */
     .three-money-top{
         display: flex;
         flex-direction: column;
+        justify-content: center;
         align-items: center;
+        width: auto;
+        padding: 0;
+        margin-top: 80px;
     }
     .three-money-right{
         display: grid;
@@ -931,19 +937,31 @@ width: 302px;
     }
 
     /* why-choose scissors area */
+    .three{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        align-self: center;
+        align-content: center;
+    }
     .three-middle-part{
         display: flex;
         flex-direction: column;
         align-items: center;
+        width: auto;
+
     }
     .three-one{
         display: flex;
         width: 50%;
         align-items: center;
+        
+    }
+    .three-one-text h3{
     }
     .three-one-text {
         display: flex;
-        margin-left: -30px;
+        margin-left: -50px;
     }
     .four-pricing-tables{
         display: flex;
@@ -958,6 +976,7 @@ width: 302px;
     }
     .three-middle-part .three-grid-right{
         margin-block-start: 20px;
+        margin-left: 100px;
         display: grid;
         grid-template-columns: repeat(1,1fr);
         gap: 5px;
@@ -1005,12 +1024,14 @@ width: 302px;
     .head{
         display: flex;
         flex-direction: column;
+        width: auto;
+        
     }
     .second-part .second-img .rectangle img{
         position: absolute;
-        width: 103%;
+        width: 90%;
        height: 82px;
-        left: -40px;
+        left: 60px;
         top: 915px;
         z-index: -1;
     }
@@ -1023,5 +1044,27 @@ width: 302px;
     margin-bottom: -50px;
     position: absolute;
     z-index: 33;
+    }
+    .optimize-text h2{
+        font-size: 29px;
+    }
+    .personalize-text {
+        width: 50%;
+        display: flex;
+    }
+    .shareable {
+        width: min-content;
+        z-index: 20;
+    }
+    .top{
+        position: relative;
+    }
+    .triangle-image img{
+        top: 880px;
+      right: 350px;
+       position: absolute;
+    }
+   .rectangle img{
+        width: auto
     }
 }
