@@ -1,0 +1,1070 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+     
+body{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-self: center;
+    align-content: center;
+    min-width: 1111px;
+    overflow-x: hidden;
+    font-family: 'Gilroy-Medium', sans-serif;
+}
+main{
+    margin: auto;
+    max-width: auto;
+    max-height: auto;
+}
+
+/* THE-TOP */
+.top{
+    position: relative;
+}
+.head{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-around;
+    align-content: space-around;
+    margin: auto;
+    margin-block-end: 30px;
+}
+.blue-scissors{
+    display: flex;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul li{
+    list-style: none;
+}
+ul{
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: flex;
+    gap: 40px;
+    padding: 0px;
+    max-width: auto;
+    width: 499px;
+    height: 24px;
+}
+.sign-in{
+    display: flex;
+    max-width: auto;
+    align-items: center;
+    height: 44px;
+}
+.try-for-free a {
+height: 44px;
+width: 142px;
+left: 69px;
+background-color: #0065fe;
+margin-left: 19px;
+top: 0px;
+font-size: 16px;
+line-height: 12px;
+color: #ffffff;
+text-decoration: none;
+border-radius: 100px;
+padding: 12px 24px 12px 24px;
+}
+.log-in a{
+text-decoration: none;
+color: #0065fe;
+font-size: 18px;
+}
+/* second-part */
+.second-part{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.optimize-text{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.optimize-text b span{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-inline: 10px;
+   color: #005AE2 ;
+}
+.lines img{
+    width: 173.63px;
+    margin-right: -20px;
+}
+.optimize-text b {
+    line-height: 96px;
+    display: flex;
+}
+.optimize-text b span img{
+    margin-inline-end:-25px ;
+}
+.optimize-text h2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+ margin-block-end: -25px;
+    width: 100%;
+    font-size: 48px;
+}
+.personalize-text h4{
+    width: 720px;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+margin-block-start: 25px;
+display: flex;
+align-items: center;
+}
+/* THE CRAZY IMAGE 😑😑😐😐 */
+.go img{
+    width: 100%;
+}
+.second-sign-in{
+    display: flex;
+    align-items: center;
+}
+/* 🤣😂😂😂 */
+.second-img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.second-part .second-img .rectangle img{
+    position: absolute;
+    width: 103%;
+   height: 82px;
+    left: -40px;
+    top: 830px;
+    z-index: -1;
+}
+.second-sign-in .sign-up a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 44px;
+    text-decoration: none;
+    border-radius: 100px;
+    font-weight:900;
+    background-color: #0065FE;
+    color: #ffffff;
+    width: 142px;
+}
+.second-sign-in .learn a{
+    text-decoration: none;
+    font-weight: 800;
+    color: #005AE2;
+    margin-left: 60px;
+}
+.triangle-image .tri{
+    width: 238.55px;
+    height: 251.2px;
+    margin-top: -270px;
+    margin-left: -280px;
+}
+.shareable{
+box-sizing: border-box;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+text-align: center;
+padding: 40px 60px;
+gap: 16px;
+margin-top: 90px;
+margin-inline-start: 200px;
+width: 768px;
+height: 224px;
+left: calc(50% - 768px/2 + 98px);
+top: 531px;
+background: rgba(254, 254, 254, 0.1);
+border: 0.5px solid #005AE2;
+backdrop-filter: blur(106px);
+border-radius: 24px;
+}
+.shareable h4{
+font-size: 18px;
+margin-left: 150px;
+display: flex;
+width: 65%;
+flex-direction: column;
+align-items: center;
+}
+.second-part .second-img .dine .plate{
+    height: 49px;
+width: 73%;
+left: 185px;
+top: 840px;
+border-radius: 0px;
+margin-bottom: -50px;
+position: absolute;
+z-index: 33;
+}
+.second-part .second-img .dine{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 70px;
+}
+.second-part .second-img .dine .angle{
+    height: 93px;
+    width: 100%;
+    left: 0px;
+    top: 931px;
+}
+/* THREE */
+.three-money-top{
+    background-color: #e7e7ff5d;;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-inline-start: 1px;
+    margin-block-start: 48px;
+    padding-block: 30px;
+}
+.three-top-left h2{
+    font-size: 40px;
+    margin-left: -20px;
+}
+.three-top-left h2 .ayo{
+    color: #0065FE;
+}
+.three-money-right{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    align-self: center;
+    height: min-content;
+}
+.three-money-right .bro h3{
+    margin: 0;
+    margin-inline-start: 30px;
+    
+    
+    height: 100px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.three-money-right .bro h3 .mil{
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.three-middle-part{
+    display: flex;
+    
+    justify-content: space-around;
+    align-content: space-around;
+    margin-top: 100px;
+}
+.three-middle-part .three-grid-right h2{
+    font-size: xx-large;
+    
+}
+.three-one{
+    display: flex;
+    padding-top: 0px;
+    flex-direction: column;
+    height: min-content;
+}
+.three-one .three-choose{
+    display: flex;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.three-one .three-choose h2 .three-scissors{
+    color: #0004fe;
+}
+.three-one .three-choose h2{
+    margin: 0;
+    font-size: 39px;
+   
+}
+.three-one .three-choose img{
+    height: 20%;
+    margin-inline-end: 5px;
+    margin-inline-start: 30px;
+    margin-block-start: 2px;
+    display: flex;
+}
+.three-middle-part .three-one h3{
+    display: grid;
+    width: 38%;
+    line-height: 24px;
+    margin-inline-start: 130px;
+    font-size: 13px;
+    font-weight: 600;
+}
+.three-middle-part .three-grid-right{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 5px;
+    margin-inline-end: 119px;
+}
+.three-middle-part .three-grid-right .tec h3{
+    width: 276px;
+    font-size: 13px;
+    font-weight: 600;
+    
+}
+/* four */
+.four-middle-part{
+    display: flex;
+    margin-block-start: 200px;
+    flex-direction: column;
+    align-items: center;
+}
+.four-pricing-tables{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+}
+.four-middle-part .four-top{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 70px;
+    align-items: center;
+    width: 576.1px;
+}
+.four-middle-part .four-top .four-top-big h1{
+    margin: 0;
+}
+.four-middle-part .four-top .four-top-big{
+    height: min-content;
+    display: flex;
+    font-size: 20px;
+    font-weight: 900;
+}
+.four-middle-part .four-top .four-top-big img{
+    display: flex;
+    height: 49px;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    margin-right: 13px;
+}
+.four-middle-part .four-top .four-top-big .four-pre{
+    color: #005AE2;
+}
+.four-middle-part .four-top .four-top-small{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: min-content;
+}
+.four-middle-part .four-top .four-top-small h3{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    margin-inline-end: -13px;
+}
+.four-pricing-tables{
+    display: flex;
+    position: relative;
+}
+.four-pricing-tables .four-price-1{
+    display: flex;
+}
+.four-pricing-tables .four-price-1{
+    border: 1px solid #005AE2;
+    margin-top: 50px;
+    margin-inline-end: -40px;
+    display: flex;
+    border-radius: 10px;
+    padding-inline-start: 40px;
+    padding-inline-end: 100px;
+    height: fit-content;
+    flex-direction: column;
+    left: 30px;
+}
+.four-pricing-tables .four-price-1 .four-check-items-1{
+    width: 222px;
+    height: min-content;
+}
+/* 😎😋 no forget am o */
+.four-pricing-tables .four-price-1 .four-check-items-1 img{
+    width: 7%;
+    height: 30%;
+    display: flex;
+    align-self: center;
+    margin-right: 7px;
+}
+.four-check-items-1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+/*  */
+.four-pricing-tables .four-price-1 .four-check-items-1 .bm{
+    margin-block-start: 1px;
+    width: 100%;
+    display: flex; 
+    height: 50px; 
+}
+/*  */
+.four-pricing-tables .four-price-1 .four-check-items-1 .bm h5{
+    font-size: 15px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    align-self: center;
+    height: min-content;
+}
+/*  */
+.four-pricing-tables .four-price-1 .basic{
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 19px;
+}
+/*  */
+.four-pricing-tables .four-price-1 .for-real{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.free-plan{
+    font-size: 20px;
+}
+
+/* AAAA */
+
+.four-pricing-tables .four-price-2 .four-check-items-2 img{
+    width: 7%;
+    height: 30%;
+    display: flex;
+    align-self: center;
+    margin-right: 7px;
+}
+.four-check-items-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 15px;
+    margin-block-end: 80px;
+    padding-right: 15px;
+}
+.four-pricing-tables .four-price-2 .four-check-items-2 .br{
+    margin-block-start: 1px;
+    width: 100%;
+    display: flex; 
+    height: 50px; 
+}
+.four-pricing-tables .four-price-2 .four-check-items-2 .br h5{
+    font-size: 15px;
+    font-weight: 500;
+    width: 100%;
+    margin-inline-end: -15px;
+    display: flex;
+    align-items: center;
+    align-self: center;
+    height: min-content;
+}
+.four-pricing-tables .four-price-2 .pro{
+    font-size: 24px;
+    margin-top: 80px;
+    margin-bottom: 19px;
+}
+
+.four-pricing-tables .four-price-2 .fifthin{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.ideal-for{
+    font-size: 20px;
+}
+
+.four-pricing-tables .four-price-2{
+    display: flex;
+}
+.four-pricing-tables .four-price-2{
+    border: 1px solid #005AE2;
+    background-color: #1E3448;
+    z-index: 10;
+    color: #ffffff;
+    display: flex;
+    border-radius: 10px;
+    padding-inline-end: 80px;
+    padding-inline-start: 98px;
+    padding-block-end: 45px;
+    flex-direction: column;
+}
+.four-pricing-tables .four-price-2 .four-check-items-2{
+    width: 222px;
+    height: min-content;
+}
+
+/* 😀😀😀 */
+.four-price-3 .four-check-items-3 img{
+    width: 7%;
+    height: 30%;
+    display: flex;
+    align-self: center;
+    margin-right: 7px;
+}
+.four-check-items-3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    padding-right: 15px;
+}
+.four-pricing-tables .four-price-3 .four-check-items-3 .apl{
+    margin-block-start: 1px;
+    width: 100%;
+    display: flex; 
+    height: 50px; 
+}
+.four-pricing-tables .four-price-3 .four-check-items-3 .apl h5{
+    font-size: 15px;
+    font-weight: 500;
+    width: 100%;
+    margin-inline-end: -10px;
+    display: flex;
+    align-items: center;
+    align-self: center;
+    height: min-content;
+}
+.four-pricing-tables .four-price-3 .teams{
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 19px;
+}
+
+.four-pricing-tables .four-price-3 .twenty{
+    font-size: 35px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+.share-with{
+    font-size: 20px;
+}
+
+.four-pricing-tables .four-price-3{
+    display: flex;
+}
+.four-pricing-tables .four-price-3{
+    border: 1px solid #005AE2;
+    margin-top: 50px;
+    margin-inline-start: -40px;
+    display: flex;
+    border-radius: 10px;
+    padding-inline-end: 40px;
+    padding-inline-start: 100px;
+    height: fit-content;
+    flex-direction: column;
+    right: 30px;
+}
+.four-pricing-tables .four-price-3 .four-check-items-3{
+    width: 222px;
+    height: min-content;
+}
+.four-middle-part .four-form{
+    width: 50%;
+    margin-top: 70px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-inline-start: -20px;
+    margin-block-end: 130px;
+    height: auto;
+}
+.four-middle-part .four-form a{
+    text-decoration: none;
+}
+.four-middle-part .four-form .four-button-pricing a{
+    color: #005AE2;
+}
+.four-middle-part .four-form .four-button-pricing,.four-middle-part .four-form .four-button-select {
+width: 43%;
+margin: 0;
+margin-inline-start: 33px;
+padding: 0;
+}
+.four-middle-part .four-form .four-button-pricing{
+    margin-inline-end: 5px; 
+   
+}
+.four-middle-part .four-form .four-button-pricing h4 {
+    color: #0065FE;
+    border: 2px solid #0065fe;
+    margin: 0;
+    width: 70%;
+    margin-inline-start: 70px;
+ padding-block: 17px;
+ font-weight: 500;
+ font-size: 16px;
+ border-radius: 2rem;
+}
+.four-middle-part .four-form .four-button-select  h4{
+    background-color: #005AE2;
+    border: 2px solid #005AE2;
+    color: #ffffff;
+    width: 70%;
+    margin: 0;
+    margin-inline-end: 20px;
+    font-weight: 500;
+    font-size: 16px;
+    padding-block: 17px;
+    border-radius: 2rem;
+}
+
+/* FIVE */
+.five-middle-part{
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-inline-start: -1px;
+    height: 503px;
+    position: relative;
+    background-color: #1e3448;
+    background-image: url(images/form_left.png),url(images/form_right.png);
+    background-repeat: no-repeat;
+    background-position: -20px 0px,430px 0px;
+    background-size: 926px 523px,926px;
+    color: #7fb2ff;
+}
+.form{
+max-width: auto;
+width:409px;
+max-height: auto;
+height: 250px;
+padding: 42px;
+border-radius: 12px;
+display: flex;
+flex-direction: column;
+align-content: center;
+justify-content: center;
+align-items: center;
+background-color: #ffffff;
+}
+.five-inputs{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    margin-top: 20px;
+    justify-self: center;
+    max-width: auto;
+}
+.five-input-url input{
+outline: none;
+border:1px solid #0065FE;
+width:376px ;
+height: 55px;
+padding-inline-start: 20px;
+border-radius: 12px;
+}
+.five-input-url input::placeholder, .five-option input::placeholder,.five-input-text input::placeholder{
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+    color: #005AE2;
+    padding:8px, 12px, 8px, 12px;
+    width: 115px;
+}
+.five-select-alias{
+    display: flex;
+    align-content: center;
+    align-self: center;
+    align-items: center;
+    margin-top: 20px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.five-option select{
+    width: 179px;
+    height: 48px;
+    padding-inline:  20px ;
+    color: #005AE2;
+    border-radius: 12px;
+    border: 1px solid;
+    outline: none;
+    margin-inline-end: 10px;
+}
+.five-input-text input{
+    width: 130px;
+    height:48px;
+    border: 2px solid ;
+    padding-inline: 20px;
+    border-radius: 12px;
+    border: 1px solid #005AE2;
+    outline: none;
+}
+.five-submit{
+    display: flex;
+    margin-block-start: 20px;
+    flex-direction: column;
+    align-items: center;
+    width: auto;
+}
+.five-submit-text {
+    height: min-content;  
+    display: flex;
+    width: 390px;
+    font-size: 14px;
+    text-align:left;
+}
+.five-button button{
+    width: 399px;
+    padding-inline: 24px;
+    padding-block: 12px;
+    color: #ffffff;
+    display: flex;
+    background-color: #005AE2;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border:1px solid #005AE2;
+    border-radius: 10rem;
+}
+/* .five-submit-text {
+    border: 2px solid rgb(22, 55, 77); 
+    display: flex;
+    margin: 0;
+    font-size: 14px;
+    font-weight: 400;
+    width: 100%;
+    text-align:left;
+} */
+/* six */
+.six-container{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 1121px;
+    background-image: url(images/faq_left.png),url(images/faq_right.png);
+    background-repeat: no-repeat;
+    background-position: -30px -25px,972px 690px;
+}
+.six-container .six-image-left{
+/* border:2px solid #0065FE; */
+width: min-content;
+margin-left: -25px;
+}
+.faq-top{
+    display: flex;
+    justify-content: center;
+}
+.faq-top img{
+    height: 30px;
+    display: flex;
+    align-self: center;
+    margin-right: 10px;
+}
+.accordion{
+    width: min-content;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    text-align: left;
+}
+.accordion-item{padding: 1rem;}
+.accordion-link{
+    font-family: 'gilory-bold',sans-serif;
+    color: black;
+    text-decoration: none;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 0;
+}
+.accordion-link img{
+    padding: .3rem;
+}
+.accordion-link .remove{
+    display: none;
+}
+.six-answer{
+width: 850px;
+font-weight: 600;
+font-size: 14px;
+max-height: 0;
+overflow: hidden;
+transition: max-height 650ms;
+transition-duration: 1s;
+transition-timing-function: ease-in-out;
+}
+.accordion-item:target .six-answer{
+    max-height: 20rem;
+}
+.accordion-item:target .accordion-link .add{
+    display: none;
+}
+.accordion-item:target .accordion-link .remove{
+    display: block;
+}
+/* Seven */
+.seven-container{
+    width:100%;
+height: 299px;
+top: 1947px;
+left: -721px;
+background-color: #1D3347;
+background-image: url(images/footer_top.png),url(images/footer_bottom.png);
+background-repeat: no-repeat;
+background-position: -10px 0px, 745px;
+background-size: 600px 320px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.seven-text-container{
+    color: #ffffff;
+    display: flex;
+    margin-left:96px ;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+}
+.seven-text-container h4{
+    font-family: 'Gilroy-Bold',sans-serif;
+    font-size: 31px;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.seven-button button{
+    border: none;
+    font-family: 'Gilroy-bold',sans-serif;
+    font-weight: 600;
+    color: #ffffff;
+    box-shadow: 1px 1px 10px 1px #005AE2;
+    background-color: #005AE2;
+    font-size: 1rem;
+    display: flex;
+    outline: none;
+    padding-inline: 45px;
+    padding-block: 10px;
+    border-radius: 2rem;
+}
+
+/* EIGHT */
+.eight-container{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-self: center;
+    align-content: center;
+    color: #112232;
+  max-height: auto;
+  background-image: url(images/last_left.png),url(images/last_right.png);
+  background-repeat: no-repeat;
+  background-position: 0px 47px,810px 232px;
+}
+.eight-images{
+    margin-top: 116px;
+    margin-inline-end: 60px;
+}
+.eight-black-scissor{
+    margin-bottom: 20px;
+}
+.eight-container h4{
+    font-family: 'Gilroy-Medium',sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: -10px;
+}
+.eight-grid-texts{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 24px;
+    margin-top: 100px;
+    margin-block-end: 100px;
+}
+.final-footer p{
+position: absolute;
+bottom: 0;
+margin-left: -207px;
+display: flex;
+font-size: 13px;
+width: 302px;
+}
+/* MEDIA */
+@media (max-width:780px) {
+    main,body{
+        width: 50%;
+        min-width: 900px;
+        text-align: left;
+        margin: auto;
+    }
+    /* MILLIONS table */
+    .three-money-top{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: auto;
+        padding: 0;
+        margin-top: 80px;
+    }
+    .three-money-right{
+        display: grid;
+        
+    }
+
+    /* why-choose scissors area */
+    .three{
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        align-self: center;
+        align-content: center;
+    }
+    .three-middle-part{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: auto;
+
+    }
+    .three-one{
+        display: flex;
+        width: 50%;
+        align-items: center;
+        
+    }
+    .three-one-text h3{
+    }
+    .three-one-text {
+        display: flex;
+        margin-left: -50px;
+    }
+    .four-pricing-tables{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    /* Pricing area */
+    .four-pricing-tables .four-price-1{
+        margin-top: -10px;
+        margin-bottom:50px ;
+    }
+    .three-middle-part .three-grid-right{
+        margin-block-start: 20px;
+        margin-left: 100px;
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 5px;
+    }
+    .four-pricing-tables .four-price-2{
+        padding-inline: 70px;
+        padding-inline-end: -60px;
+        align-items: center;
+        margin-left: 50px;
+    }
+    .four-pricing-tables .four-price-3{
+        padding-inline: 70px;
+        padding-inline-end: -60px;
+        align-items: center;
+        margin-left: 50px;
+    }
+    .four-form{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+        align-items: center;
+    }
+    .four-middle-part .four-form .four-button-pricing{
+        margin-inline-end: -15px; 
+        margin-block-end: 21px;
+       
+    } 
+    .four-middle-part .four-form .four-button-select{
+        margin-inline-end: -156px; 
+    }
+    /* eight-grid  */
+    
+.eight-container{
+  background-image: url(images/last_left.png),url(images/last_right.png);
+  background-repeat: no-repeat;
+  background-position: 0px 407px,573px 572px;
+}
+    .eight-grid-texts{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 24px;
+        margin-top: 100px;
+        margin-block-end: 100px;
+    }
+    .head{
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        
+    }
+    .second-part .second-img .rectangle img{
+        position: absolute;
+        width: 90%;
+       height: 82px;
+        left: 60px;
+        top: 915px;
+        z-index: -1;
+    }
+    .second-part .second-img .dine .plate{
+        height: 49px;
+    width: 65%;
+    left: 185px;
+    top: 920px;
+    border-radius: 0px;
+    margin-bottom: -50px;
+    position: absolute;
+    z-index: 33;
+    }
+    .optimize-text h2{
+        font-size: 29px;
+    }
+    .personalize-text {
+        width: 50%;
+        display: flex;
+    }
+    .shareable {
+        width: min-content;
+        z-index: 20;
+    }
+    .top{
+        position: relative;
+    }
+    .triangle-image img{
+        top: 880px;
+      right: 350px;
+       position: absolute;
+    }
+   .rectangle img{
+        width: auto
+    }
+}
